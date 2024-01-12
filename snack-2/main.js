@@ -15,4 +15,4 @@ do{
     } else{
         console.log("numero troppo basso");
     }
-}while( numb = randomNumb)
+}while( numb != randomNumb)
